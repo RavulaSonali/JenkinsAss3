@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.exe
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.deps.json
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.runtimeconfig.json
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.dll
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.pdb
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.AssemblyInfo.cs
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.dll
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\refint\ConAppAss3.dll
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.pdb
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.genruntimeconfig.cache
+D:\Mphasis\Phase-4 Testing\09-01-2024\Assignment-3\ConAppAss3\ConAppAss3\obj\Debug\net6.0\ref\ConAppAss3.dll
